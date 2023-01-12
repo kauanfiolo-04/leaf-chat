@@ -8,7 +8,7 @@ export const Navbar=()=>{
           alt="user avatar" 
         />
         <span>Jão</span>
-        <button className="bg-lime-600 text-xs p-1 text-gray-100 cursor-pointer">logout</button>
+        <button className="bg-lime-600 text-xs p-1 text-gray-100 cursor-pointer rounded-sm">logout</button>
       </div>
     </div>
   )
